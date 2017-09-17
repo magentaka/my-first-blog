@@ -1,0 +1,14 @@
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
+
+
+
+https://github.com/magentaka/my-first-blog.git
+
+mail address: marzena.kaniak@gmail.com
+Password:
+Password (again):
+Superuser created successfully.
